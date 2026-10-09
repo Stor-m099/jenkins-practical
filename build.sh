@@ -11,4 +11,4 @@ mkdir build
 
 cp index.html build
 
-echo "Build completed successfully"
+echo "Build completed successfully."
